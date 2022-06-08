@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Julian Sweet Res.</title>
+</head>
+<style>
+body{
+	text-align:center;
+	background-image:url("https://art.pixilart.com/dae813cd8dfeede.gif");
+	color:white;
+	margin:25px;
+	font-family:Comic Sans MS;
+	
+	
+}
+section{
+
+background-color:white;
+opacity:80%;
+color:red;
+padding:12px;
+border-radius:50px;
+font-size:25px;
+}
+h1{
+font-size:80px;
+background-color:blue;
+}
+h2{
+font-size:50px;
+background-color:blue;
+}
+h3{
+font-size:40px;
+background-color:blue;
+}
+h1{
+font-size:30px;
+background-color:blue;
+}
+button{
+background-color:green;
+color:white;
+border-radius:50px;
+border-width:3px;
+font-size:20px;
+}
+</style>
+<body>
+
+<h1>Julian Sweet Restaurant</h1>
+<h2> Food and Games </h2>
+
+<section>
+<h3>About My Webpage</h3>
+<p>So on June 8 I made a very. very. very first website and I loved it. Thank you for reading this.</p>
+
+
+
+<img src="https://i.pinimg.com/originals/0c/83/76/0c8376788fabfe2c71b9f2210831394a.gif" width="400" height="400"/>
+<h3>About My Restaurant</h3>
+<p>
+In this restaurant I'll be selling pizza, chips, and any thing you want.</p>
+
+<img src="https://media.istockphoto.com/photos/pacman-pizza-picture-id452421339?k=20&m=452421339&s=170667a&w=0&h=Di9XU_SQTzpU3MUr6xAKhS8Oe8NfcUji4CG_KXFFREY=" width="400" height="400"/>
+
+<hr>
+
+<h3>Let's Take A Look At The Menu</h3>
+
+
+<p><b>I will be selling pizza, chips, and every thing the customers want.</b></p>
+<ul>
+<li>1.Pizza</li>
+<img src="https://media2.giphy.com/media/VCDSo9xqCJOjC/giphy.gif"width="300" height="200"/>
+<button type="button" onclick="add()"> Add+</button>
+
+<li>2.Chips</li>
+
+<img src="https://c.tenor.com/_I1h56y1tp8AAAAC/lays-chips-chips.gif"width="300" height="200"/>
+
+<button type="button" onclick="add()"> Add+</button>
+<li>3.Juices</li>
+<img src="https://thumbs.gfycat.com/SpicyAjarKarakul-max-1mb.gif"width="300" height="200"/>
+
+<button type="button" onclick="add()"> Add+</button>
+<li>4.Ice creams</li>
+<img src="https://media2.giphy.com/media/IzzF0d2r01GnK/giphy.gif?cid=ecf05e472ry9mvjmvkiq57jft2q6hwjjq0hlupak4u2uraef&rid=giphy.gif&ct=g"width="300" height="200"/>
+
+<button type="button" onclick="add()"> Add+</button>
+<li>5.Burgers</li>
+<img src="https://thdaily.s3-us-west-1.amazonaws.com/header_20190326231206.gif"width="300" height="200"/>
+<button type="button" onclick="add()"> Add+</button>
+<li>6. Fries</li>
+<img src="https://media3.giphy.com/media/XGyPddZEvwXnbNyzSI/giphy.gif"width="300" height="200"/>
+<button type="button" onclick="add()"> Add+</button>
+<li>7. Nuggests</li>
+<img src="https://c.tenor.com/TXg74eiXa1EAAAAC/mcdonalds-chicken-nuggets.gif"width="300" height="200"/>
+<button type="button" onclick="add()"> Add+</button>
+</ul>
+</section>
+<audio src="music.mp3" controls autoplay="true"></audio>
+
+<iframe width="600" height="400" src="https://www.youtube.com/embed/h_YmYLYi65k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<script>
+alert("Welcome to the website by Julian!");
+function add(){
+	alert("This item has been added.Thank you! Julian :)");
+	}
+
+</script>
+</body>
+</html>
+
+
